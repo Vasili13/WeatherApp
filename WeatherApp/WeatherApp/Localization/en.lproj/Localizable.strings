@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Василий Вырвич on 13.12.23.
+  
+*/
+
+"weatherController.title" = "Weather";
+"settingsController.title" = "Settings";
+"searchController.title" = "Search";
+"clear" = "Clear";
+"drizzle" = "Drizzle";
+"snow" = "Snow";
+"clouds" = "Clouds";
+"rain" = "Rain";
+"thunderstorm" = "Thunderstorm";
+"dust" = "Dust";
+
+"offlineTime" = "Updated: ";
